@@ -6,6 +6,8 @@ The file Parking.ipynb shows whether illegal parking incidents are a larger frac
 total 311 incidents in area with zipcode 10028 than they are in general in the entire new york city.
 
 Section: 002
+  
+Group: 57
 
 Group Members:
 1. yy3174 - Yun Yao
